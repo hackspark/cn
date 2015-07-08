@@ -4,48 +4,26 @@
     
         
     <url>
-     <loc>http://hackspark.github.io/</loc>
-     <lastmod>2015-06-13</lastmod>
+     <loc>http://hackspark.github.io/cn/</loc>
+     <lastmod>2015-07-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://hackspark.github.io/introduction/hackathon/</loc>
-     <lastmod>2015-06-13</lastmod>
+     <loc>http://hackspark.github.io/cn/introduction/hackathon/</loc>
+     <lastmod>2015-07-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://hackspark.github.io/introduction/slack/</loc>
-     <lastmod>2015-06-13</lastmod>
+     <loc>http://hackspark.github.io/cn/introduction/slack/</loc>
+     <lastmod>2015-07-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://hackspark.github.io/introduction/resources/</loc>
-     <lastmod>2015-06-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>http://hackspark.github.io/environment/register-team/</loc>
-     <lastmod>2015-06-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://hackspark.github.io/environment/dswb/</loc>
-     <lastmod>2015-06-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://hackspark.github.io/environment/download-sample-data/</loc>
-     <lastmod>2015-06-13</lastmod>
+     <loc>http://hackspark.github.io/cn/introduction/resources/</loc>
+     <lastmod>2015-07-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -54,20 +32,42 @@
     
         
     <url>
-     <loc>http://hackspark.github.io/howtos/sharing-data-notebooks/</loc>
-     <lastmod>2015-06-13</lastmod>
+     <loc>http://hackspark.github.io/cn/environment/register-team/</loc>
+     <lastmod>2015-07-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://hackspark.github.io/howtos/load-data-dsw/</loc>
-     <lastmod>2015-06-13</lastmod>
+     <loc>http://hackspark.github.io/cn/environment/dswb/</loc>
+     <lastmod>2015-07-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://hackspark.github.io/howtos/install-libs/</loc>
-     <lastmod>2015-06-13</lastmod>
+     <loc>http://hackspark.github.io/cn/environment/download-sample-data/</loc>
+     <lastmod>2015-07-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://hackspark.github.io/cn/howtos/sharing-data-notebooks/</loc>
+     <lastmod>2015-07-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://hackspark.github.io/cn/howtos/load-data-dsw/</loc>
+     <lastmod>2015-07-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://hackspark.github.io/cn/howtos/install-libs/</loc>
+     <lastmod>2015-07-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
