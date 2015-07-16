@@ -16,12 +16,6 @@
     </url>
         
     <url>
-     <loc>http://hackspark.github.io/cn/introduction/slack/</loc>
-     <lastmod>2015-07-15</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
      <loc>http://hackspark.github.io/cn/introduction/resources/</loc>
      <lastmod>2015-07-15</lastmod>
      <changefreq>daily</changefreq>
@@ -30,12 +24,6 @@
     
 
     
-        
-    <url>
-     <loc>http://hackspark.github.io/cn/environment/register-team/</loc>
-     <lastmod>2015-07-15</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
         
     <url>
      <loc>http://hackspark.github.io/cn/environment/dswb/</loc>
@@ -67,22 +55,6 @@
         
     <url>
      <loc>http://hackspark.github.io/cn/howtos/install-libs/</loc>
-     <lastmod>2015-07-15</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>http://hackspark.github.io/cn/faq/no-email/</loc>
-     <lastmod>2015-07-15</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://hackspark.github.io/cn/faq/respond-slack-github/</loc>
      <lastmod>2015-07-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
